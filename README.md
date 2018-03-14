@@ -3,5 +3,6 @@
 ## Lecture Code and Videos
 
 #### Module 1
-01 Hashketball Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/01_hashketball_review)  
+01 Hashketball Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/01_hashketball_review)
 02 [Hashes and the Internet](https://youtu.be/qkhR_lZ9MAY ) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/02_hashes_and_the_internet)
+03 [Intro to OO] (https://youtu.be/sobGfcsQ2DM)  |  [code](https://github.com/learn-co-students/dc-web-031218/tree/master/03-intro-to-oo)
