@@ -13,5 +13,6 @@
 * 07 Intro to SQL | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/07-intro-to-sql)
 * 08 Advanced SQL[Part 1](https://youtu.be/iFsdUuP2o4M) [Part 2](https://youtu.be/rfop2yU_V6g) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/08-advanced-sql)
 * 09 Superhero OO Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/09-superhero-oo-review)
+* 10 Talk Show OO Review(https://youtu.be/2QtVGS_m290) | [code](https://github.com/learn-co-students/dc-web-031218/tree/solution/10-oo-review)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
