@@ -11,7 +11,7 @@
 05 [OO Many to Many](https://youtu.be/mhkKZL0RD2E) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/05-many-to-many)
 06 OO My Pets Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/06-oo-my-pets-review)
 07 Intro to SQL | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/07-intro-to-sql)
-08 Advanced SQL | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/08-advanced-sql)
+08 Advanced SQL[Part 1](https://youtu.be/iFsdUuP2o4M) [Part 2](https://youtu.be/rfop2yU_V6g) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/08-advanced-sql)
 09 Superhero OO Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/09-superhero-oo-review)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
