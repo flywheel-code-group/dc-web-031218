@@ -15,5 +15,6 @@
 * 09 Superhero OO Review | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/09-superhero-oo-review)
 * 10 [Talk Show OO Review](https://youtu.be/2QtVGS_m290) | [code](https://github.com/learn-co-students/dc-web-031218/tree/solution/10-oo-review)
 * 11 [Intro to ORMs](https://youtu.be/KGI_1Iak2C4) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/11-intro-to-orms)
+* 12 [Advanced ORMs](https://www.youtube.com/watch?v=Tbzizt-PmuI) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/12-advanced-orms)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
