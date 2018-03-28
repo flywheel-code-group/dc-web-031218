@@ -17,5 +17,6 @@
 * 11 [Intro to ORMs](https://youtu.be/KGI_1Iak2C4) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/11-intro-to-orms)
 * 12 [Advanced ORMs](https://www.youtube.com/watch?v=Tbzizt-PmuI) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/12-advanced-orms)
 * 13 Intro to ActiveRecord [Part 1](https://youtu.be/xiXlEm_xtvw) [Part 2]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/13-activerecord-intro)
+* 14 [ActiveRecord Assocations](https://www.youtube.com/watch?v=zk1zZU2vMxY) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/14-activerecord-associations)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
