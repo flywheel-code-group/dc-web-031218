@@ -22,5 +22,6 @@
 #### Module 2
 
 * 15 [Intro to the Internet](https://youtu.be/q28TBJgXayU) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/15-intro-to-internet)
+* 16 [Intro to Sinatra and MVC](https://youtu.be/Q2Y0lHFcbA8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/16-intro-sinatra-mvc)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
