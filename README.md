@@ -24,5 +24,6 @@
 * 15 [Intro to the Internet](https://youtu.be/q28TBJgXayU) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/15-intro-to-internet)
 * 16 [Intro to Sinatra and MVC](https://youtu.be/Q2Y0lHFcbA8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/16-intro-sinatra-mvc)
 * 17 Sinatra and Forms [Part 1](https://youtu.be/76UgUzr0XSE) [Part 2](https://youtu.be/2-_FMYLzzQg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/17-sinatra-forms-rest)
+* 18 Sinatra and ActiveRecord [Part 1]() [Part 2]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/18-sinatra-active-record)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
