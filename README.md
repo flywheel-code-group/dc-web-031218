@@ -26,5 +26,6 @@
 * 17 Sinatra and Forms [Part 1](https://youtu.be/76UgUzr0XSE) [Part 2](https://youtu.be/2-_FMYLzzQg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/17-sinatra-forms-rest)
 * 18 Sinatra and ActiveRecord [Part 1](https://youtu.be/nmhmKvc-2ho) [Part 2](https://youtu.be/zmZY6BQTeCI) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/18-sinatra-active-record)
 * 19 Intro to Rails [Lecture Video](https://www.youtube.com/watch?v=EgdFnlaE0G4) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/19-intro-to-rails/taco-town)
+* 19 Rails MVC [Lecture Video](https://youtu.be/p63rPS4eZj0) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/20-rails-mvc)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
