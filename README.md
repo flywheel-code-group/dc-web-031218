@@ -29,6 +29,6 @@
 * 20 Rails MVC [Lecture Video](https://youtu.be/p63rPS4eZj0) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/20-rails-mvc)
 * 21 Rails Forms [Lecture Video](https://youtu.be/UB8aD_dfh14) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/21-rails-forms)
 * 22 Rails Validations [Lecture Video](https://youtu.be/S6EPbLWSOaE) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/22-rails-validations)
-* 23 Rails Forms and Basic Associations Review [code](https://github.com/learn-co-students/dc-web-031218/tree/master/23-forms-and-basic-associations-REVIEW)
+* 23 Rails Forms and Basic Associations Review [video](https://www.youtube.com/watch?v=sgGG2j46jrw&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/23-forms-and-basic-associations-REVIEW)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
