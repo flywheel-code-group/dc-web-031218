@@ -31,5 +31,6 @@
 * 22 Rails Validations [Lecture Video](https://youtu.be/S6EPbLWSOaE) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/22-rails-validations)
 * 23 Rails Forms and Basic Associations Review [video](https://www.youtube.com/watch?v=sgGG2j46jrw&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/23-forms-and-basic-associations-REVIEW)
 * 24 Flatiron BnB Associations Review [video](https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/24-bnb-associations-review)
+* 25 Rails [Authentication](https://youtu.be/EANfkBanFvs) and [Sessions, Cookies, and Authorization](https://youtu.be/D6WmVf2KmnA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/25-rails-auth)
 
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
