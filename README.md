@@ -34,3 +34,4 @@
 * 25 Rails [Authentication](https://youtu.be/EANfkBanFvs) and [Sessions, Cookies, and Authorization](https://youtu.be/D6WmVf2KmnA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/25-rails-auth)
 * 26 Intro to CSS [video](http://youtu.be/I_P30erBvOA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/26-intro-to-css)
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
+* 27 Intro to JS [video](https://youtu.be/iqG7sm9Tiu8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/28-js-functions)
