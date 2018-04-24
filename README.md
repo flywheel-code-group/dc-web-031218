@@ -35,4 +35,5 @@
 * 26 Intro to CSS [video](http://youtu.be/I_P30erBvOA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/26-intro-to-css)
 Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
 * 27 Intro to JS [video](https://youtu.be/iqG7sm9Tiu8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/27-intro-to-js)
-* 28 JS Functions [video] | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/28-js-functions)
+* 28 JS Functions [video](https://youtu.be/DNtQkeSCh50) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/28-js-functions)
+* 29 Closures and IIFEs [video](https://youtu.be/n5YMy5nMb20) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/29-closures-iifes-loops)
