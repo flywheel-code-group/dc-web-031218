@@ -42,3 +42,4 @@
 * 28 JS Functions [video](https://youtu.be/DNtQkeSCh50) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/28-js-functions)
 * 29 Closures and IIFEs [video](https://youtu.be/n5YMy5nMb20) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/29-closures-iifes-loops)
 * 30 Functional Library Review [video](https://www.youtube.com/watch?v=a55t58f870I) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/30-functional-library-review)
+* 31 This, call, bind, apply [video](https://youtu.be/uMYccaqUnKc) Prototypes, Classes [video](https://youtu.be/R4FYdQ1lubk) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/31-this-new-objects)
