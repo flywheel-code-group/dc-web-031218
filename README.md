@@ -18,6 +18,7 @@
 * 12 [Advanced ORMs](https://www.youtube.com/watch?v=Tbzizt-PmuI) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/12-advanced-orms)
 * 13 Intro to ActiveRecord [Part 1](https://youtu.be/xiXlEm_xtvw) [Part 2]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/13-activerecord-intro)
 * 14 [ActiveRecord Assocations](https://www.youtube.com/watch?v=zk1zZU2vMxY) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/14-activerecord-associations)
+* Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
 
 #### Module 2
 
@@ -33,7 +34,10 @@
 * 24 Flatiron BnB Associations Review [video](https://giphy.com/gifs/arielle-m-coming-soon-3o72FkiKGMGauydfyg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/24-bnb-associations-review)
 * 25 Rails [Authentication](https://youtu.be/EANfkBanFvs) and [Sessions, Cookies, and Authorization](https://youtu.be/D6WmVf2KmnA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/25-rails-auth)
 * 26 Intro to CSS [video](http://youtu.be/I_P30erBvOA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/26-intro-to-css)
-Bonus Video: [Debugging with pry](https://youtu.be/Nn25Unnrb64)
+
+
+#### Module 3
+
 * 27 Intro to JS [video](https://youtu.be/iqG7sm9Tiu8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/27-intro-to-js)
 * 28 JS Functions [video](https://youtu.be/DNtQkeSCh50) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/28-js-functions)
 * 29 Closures and IIFEs [video](https://youtu.be/n5YMy5nMb20) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/29-closures-iifes-loops)
