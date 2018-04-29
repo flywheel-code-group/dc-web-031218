@@ -44,3 +44,4 @@
 * 30 Functional Library Review [video](https://www.youtube.com/watch?v=a55t58f870I) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/30-functional-library-review)
 * 31 This, call, bind, apply [video](https://youtu.be/uMYccaqUnKc) Prototypes, Classes [video](https://youtu.be/R4FYdQ1lubk) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/31-this-new-objects)
 * 32 Intro to the DOM [video](https://youtu.be/zTV4LJ9vKDM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/32-the-dom)
+* 33 JavaScript AMA [code](https://github.com/learn-co-students/dc-web-031218/tree/master/33-javascript-ama)
