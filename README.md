@@ -46,3 +46,4 @@
 * 32 Intro to the DOM [video](https://youtu.be/zTV4LJ9vKDM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/32-the-dom)
 * 33 JavaScript AMA [code](https://github.com/learn-co-students/dc-web-031218/tree/master/33-javascript-ama)
 * 34 Tips Spreadsheet Savior Checksum [video](https://www.youtube.com/watch?v=E7O3eMoU1VA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/34-tips-spreadsheet-savior)
+* 35 DOM Events [video](https://youtu.be/z5Bm30xKRsM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/35-event-listeners)
