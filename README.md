@@ -47,4 +47,5 @@
 * 33 JavaScript AMA [code](https://github.com/learn-co-students/dc-web-031218/tree/master/33-javascript-ama)
 * 34 Tips Spreadsheet Savior Checksum [video](https://www.youtube.com/watch?v=E7O3eMoU1VA) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/34-tips-spreadsheet-savior)
 * 35 DOM Events [video](https://youtu.be/z5Bm30xKRsM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/35-event-listeners)
+* 36 Promises [video](https://youtu.be/bQ_g9Ty9R_I) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/36-performance-and-promises)
 * 37 Fetch Lecture [video](https://www.youtube.com/watch?v=ZIEHkvlqJhg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/37-fetch)
