@@ -49,4 +49,4 @@
 * 35 DOM Events [video](https://youtu.be/z5Bm30xKRsM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/35-event-listeners)
 * 36 Promises [video](https://youtu.be/bQ_g9Ty9R_I) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/36-performance-and-promises)
 * 37 Fetch Lecture [video](https://www.youtube.com/watch?v=ZIEHkvlqJhg) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/37-fetch)
-* 38 Rails API and connecting it to a Pokemon Frontend [rails api video](https://www.youtube.com/watch?v=PTCqjh4AVHE) | [pokemon review video]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/38-rails-api)
+* 38 Rails API and connecting it to a Pokemon Frontend [rails api video](https://www.youtube.com/watch?v=PTCqjh4AVHE) | [pokemon review video](https://www.youtube.com/watch?v=1z0JnFVLtAc) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/38-rails-api)
