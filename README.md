@@ -52,3 +52,4 @@
 * 38 Rails API and connecting it to a Pokemon Frontend [rails api video](https://www.youtube.com/watch?v=PTCqjh4AVHE) | [pokemon review video](https://www.youtube.com/watch?v=1z0JnFVLtAc) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/38-rails-api)
 * 39 Top Secret COMING SOON
 * 40 Mod3 Guided Note APP Project Code [code](https://github.com/learn-co-students/dc-web-031218/tree/master/40-guided-mod-3)
+* 41 Pokemon Full Solution [code](https://github.com/learn-co-students/dc-web-031218/tree/master/41-pokemon-full-solution)
