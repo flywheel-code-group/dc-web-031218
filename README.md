@@ -53,4 +53,4 @@
 * 39 Top Secret [video](https://youtu.be/tWwMis7y81M) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/39-top-secret)
 * 40 Mod3 Guided Note APP Project Code [code](https://github.com/learn-co-students/dc-web-031218/tree/master/40-guided-mod-3)
 * 41 Pokemon Full Solution [code](https://github.com/learn-co-students/dc-web-031218/tree/master/41-pokemon-full-solution)
-* 42 Post Requests Breakout [video] | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/42-post-requests-breakout)
+* 42 Post Requests Breakout [video](https://youtu.be/ZHgnxbm0y1M) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/42-post-requests-breakout)
