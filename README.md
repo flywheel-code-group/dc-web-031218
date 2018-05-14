@@ -58,4 +58,4 @@
 
 #### Module 4
 * 43 Intro to React [video pt 1](https://youtu.be/GvBFI02yuYk) [video pt 2](https://youtu.be/mbX96H0efgw) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/43-intro-to-react)
-* 44 Webpack and Props [video] | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/44-react-props)
+* 44 Webpack and Props [video](https://youtu.be/fYyNRKfJwJE) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/44-react-props)
