@@ -54,3 +54,8 @@
 * 40 Mod3 Guided Note APP Project Code [code](https://github.com/learn-co-students/dc-web-031218/tree/master/40-guided-mod-3)
 * 41 Pokemon Full Solution [code](https://github.com/learn-co-students/dc-web-031218/tree/master/41-pokemon-full-solution)
 * 42 Post Requests Breakout [video](https://youtu.be/ZHgnxbm0y1M) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/42-post-requests-breakout)
+
+
+#### Module 4
+* 43 Intro to React [video pt 1](https://youtu.be/GvBFI02yuYk) [video pt 2](https://youtu.be/mbX96H0efgw) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/43-intro-to-react)
+* 44 Webpack and Props [video] | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/44-react-props)
