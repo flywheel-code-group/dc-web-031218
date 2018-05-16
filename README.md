@@ -59,4 +59,5 @@
 #### Module 4
 * 43 Intro to React [video pt 1](https://youtu.be/GvBFI02yuYk) [video pt 2](https://youtu.be/mbX96H0efgw) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/43-intro-to-react)
 * 44 Webpack and Props [video](https://youtu.be/fYyNRKfJwJE) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/44-react-props)
-* 45 State, Forms, Events (borrowed video, since mine didn't get captured) [video](https://www.youtube.com/watch?v=d1EUrKXg_Wg&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/45-state-events-forms)
+* 45 State, Forms, Events [rob lecture video](https://youtu.be/MVWx2D4Ms9w) [alex lecture video](https://www.youtube.com/watch?v=d1EUrKXg_Wg&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/45-state-events-forms)
+* 46 Presentation and Container Components [video](https://youtu.be/0SDrQYiiHGo) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/46-presentation-and-container-components)
