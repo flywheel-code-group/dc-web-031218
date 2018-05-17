@@ -61,4 +61,4 @@
 * 44 Webpack and Props [video](https://youtu.be/fYyNRKfJwJE) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/44-react-props)
 * 45 State, Forms, Events [rob lecture video](https://youtu.be/MVWx2D4Ms9w) [alex lecture video](https://www.youtube.com/watch?v=d1EUrKXg_Wg&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/45-state-events-forms)
 * 46 Presentation and Container Components [video](https://youtu.be/0SDrQYiiHGo) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/46-presentation-and-container-components)
-* 47 React Props and State (Pets) Lab Review [video coming soon]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/47-react-pets-review)
+* 47 React Props and State (Pets) Lab Review [video](https://www.youtube.com/watch?v=y-f-gJ-H2Q4&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/47-react-pets-review)
