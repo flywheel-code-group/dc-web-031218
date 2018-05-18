@@ -63,3 +63,4 @@
 * 46 Presentation and Container Components [video](https://youtu.be/0SDrQYiiHGo) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/46-presentation-and-container-components)
 * 47 React Props and State (Pets) Lab Review [video](https://www.youtube.com/watch?v=y-f-gJ-H2Q4&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/47-react-pets-review)
 * 48 Hogs Review (feat. A Very Special Guest) [video coming soon]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/48-hogs-review)
+* 49 Component Lifecycle [video](https://youtu.be/HgCN-QZ6pl8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/49-component-lifecycle)
