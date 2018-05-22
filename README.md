@@ -65,3 +65,4 @@
 * 48 Hogs Review (feat. A Very Special Guest) [video coming soon]() | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/48-hogs-review)
 * 49 Component Lifecycle [video](https://youtu.be/HgCN-QZ6pl8) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/49-component-lifecycle)
 * 50 YouTube Example App [video](https://youtu.be/VK_QxyrRjyw) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/50-example-app)
+* 51 React Router [video](https://youtu.be/7XdXKl8iO14) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/51-react-router)
