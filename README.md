@@ -70,6 +70,7 @@
 * 53 Token Auth [video](https://youtu.be/6CMuxSL2FBc) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/53-token-auth)
 * 54 Intro to Redux [video](https://youtu.be/vKBrbJSLqZc) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/54-intro-redux)
 * 55 More Redux [video](https://youtu.be/qGexD_jmMMs) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/55-diy-redux)
+* 56 Redux Thunk [video](https://youtu.be/lQPFhsdvMPM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/56-redux-thunk)
 
 
 # Additional Resources
