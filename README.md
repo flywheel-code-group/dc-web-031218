@@ -72,6 +72,7 @@
 * 55 More Redux [video](https://youtu.be/qGexD_jmMMs) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/55-diy-redux)
 * 56 Redux Thunk [video](https://youtu.be/lQPFhsdvMPM) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/56-redux-thunk)
 * 57 Testing [video](https://youtu.be/8pkgGlSOQQI) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/57-testing)
+* 58 Deployment [video](https://youtu.be/Oia3ftoP24w) | [code](https://github.com/learn-co-students/dc-web-031218/tree/master/58-deployment)
 
 
 # Additional Resources
